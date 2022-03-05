@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicación de Contar.</string>
+    <string name="btn_name">Agregar +1</string>
+    <string name="tv1_value">0</string>
+</resources>
